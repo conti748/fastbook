@@ -1,0 +1,3 @@
+duckduckgo-search==4.1.1
+fastai==2.7.13
+fastcore==1.5.29
