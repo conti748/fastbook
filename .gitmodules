@@ -1,0 +1,3 @@
+[submodule "02_deployment/minima"]
+	path = 02_deployment/minima
+	url = https://huggingface.co/spaces/fconti/minima
