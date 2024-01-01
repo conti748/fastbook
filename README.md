@@ -21,3 +21,8 @@ Finally, I decided to embark on this new journey and take notes as a diligent de
 
 ## Credits
 This repository includes my efforts for the fastai course and book, comprising the codebase, notebooks, assignments, and exercises. I've also reported additional experiments within the repository, experimenting with and expanding upon the original content.
+
+## Additional Material from the Course and Book
+
+Forum.......
+Blogs......

@@ -1,0 +1,6 @@
+[submodule "02_deployment/minima"]
+	path = 02_deployment/minima
+	url = https://huggingface.co/spaces/fconti/minima
+[submodule "02_deployment/christmas_panvision"]
+	path = 02_deployment/christmas_panvision
+	url = https://huggingface.co/spaces/fconti/christmas_panvision
