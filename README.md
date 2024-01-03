@@ -22,7 +22,7 @@ Hence, I aimed to leverage all the concepts in his book to challenge myself and 
 
 Upon reading the book information, I was amazed by its approach. Even though I had already taken many courses that started from the basics, there was undeniable value in tracing the author's journey from the first lesson. The author of the book and the corresponding course is Jeremy Howard, the former President and Chief Scientist of Kaggle. I admired his lectures, notebooks, and, most of all, his approach to deep learning and coding.
 
-![imin](./00_howto_fastai/images/image.jpg)
+![imin](./00_howto_fastai/images/imin.jpg)
 
 Finally, I decided I was in, and I began taking notes as a diligent developer. Engaging deeply with the book's content, I dedicated time to hands-on practice, constructing a tangible portfolio featuring various projects. I hope my experience could be valuable to other professionals venturing into the realm of deep learning.
 
