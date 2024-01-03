@@ -10,7 +10,7 @@ As it turns out, the book had a different agenda: it was about the how people ca
 
 Radek Osmulski, the author of **"Meta Learning: How To Learn Deep Learning And Thrive In The Digital World"** couldn't code at 29 and lacks a college degree. Now he is now a Senior Data Scientist at Nvidia. 
 
-![twitter](./howto_fastai/images/twitter.PNG)
+![twitter](./00_howto_fastai/images/twitter.PNG)
 
 From his book, I gathered the most important ideas that piqued my interest: 
 - the right balance between theory and practice (one cup of theory, one cup of practice!);
@@ -22,7 +22,7 @@ Hence, I aimed to leverage all the concepts in his book to challenge myself and 
 
 Upon reading the book information, I was amazed by its approach. Even though I had already taken many courses that started from the basics, there was undeniable value in tracing the author's journey from the first lesson. The author of the book and the corresponding course is Jeremy Howard, the former President and Chief Scientist of Kaggle. I admired his lectures, notebooks, and, most of all, his approach to deep learning and coding.
 
-![imin](./howto_fastai/images/image.jpg)
+![imin](./00_howto_fastai/images/image.jpg)
 
 Finally, I decided I was in, and I began taking notes as a diligent developer. Engaging deeply with the book's content, I dedicated time to hands-on practice, constructing a tangible portfolio featuring various projects. I hope my experience could be valuable to other professionals venturing into the realm of deep learning.
 
@@ -31,7 +31,7 @@ Finally, I decided I was in, and I began taking notes as a diligent developer. E
 If you follow the structure of the course [here](https://course.fast.ai/), you may miss the [Lesson "0"](https://www.youtube.com/watch?v=gGxe2mN3kAg&t=29s), but it could be helpful to begin the course, as it explain the best practice to enjoy it and hot to make it works!
 The ideal path to follow the course is....
 
-![howto](./howto_fastai/images/howto_fastai.PNG)
+![howto](./00_howto_fastai/images/howto_fastai.PNG)
 
 The reccomantation from Jeremy:
 - Read the fastbook: Roughly, one lesson of the course corresponds to one chapter of the book. Finish it to make it works!
