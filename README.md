@@ -46,9 +46,10 @@ Extra materials:
 - [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) Harvard....
 - The missing semester of your CS education [here](https://missing.csail.mit.edu/)
 
-Environment:
+Environments:
 - Jupyter Notebook: [here](https://github.com/fastai/fastbook/blob/master/app_jupyter.ipynb) to...
 - Google Colab, just clink on this [link](XXXX) to access it for free (may you want a pro version after some days)..... but unfortunally it is not persistent 
+- Gradient from Paperspace, on this [link](https://docs.paperspace.com/gradient/);
 - Install on your on a Linux AWS on aws-EC2;
 
 ## Credits
