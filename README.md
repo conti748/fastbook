@@ -1,6 +1,6 @@
 #  Fastbook Insights: Notes, Exercises, and Advanced Experiments for Fastai's Book
 
-Taking notes, deepening assignment and experimenting with the material from [fastbook](https://github.com/fastai/fastbook), the book offered by [fastai](https://www.fast.ai/) and the relative [course](https://course.fast.ai/), available freely on [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU).
+Taking notes, deepening assignment and experimenting with the material from [fastbook](https://github.com/fastai/fastbook), the book offered by [fastai](https://www.fast.ai/) and the relative [course](https://course.fast.ai/), available freely on [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU). Material from the course can be found [here](https://github.com/fastai/course22)!
 
 ## Why this repository?
 
