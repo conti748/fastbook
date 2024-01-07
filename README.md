@@ -2,6 +2,7 @@
 
 Taking notes, deepening assignment and experimenting with the material from [fastbook](https://github.com/fastai/fastbook), the book offered by [fastai](https://www.fast.ai/) and the relative [course](https://course.fast.ai/), available freely on [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU). Material from the course can be found [here](https://github.com/fastai/course22)!
 
+
 ## Why this repository?
 
 In my journey, I consider myself a good guy  with a robust engineering background: an apparently perfect launchpad for deep-learning. By chance, I came across a book on ["Meta-Learning"](https://radekosmulski.gumroad.com/l/learn_deep_learning), thinking it would uncover details to implement ML systems able to learn autonomously from different tasks and adapting their behavior accordingly. 
@@ -51,6 +52,10 @@ Environments:
 - Google Colab, just clink on this [link](XXXX) to access it for free (may you want a pro version after some days)..... but unfortunally it is not persistent 
 - Gradient from Paperspace, on this [link](https://docs.paperspace.com/gradient/);
 - Install on your on a Linux AWS on aws-EC2;
+
+## How to install
+
+git clone.... git import submodules... pip install in notebooks
 
 ## Credits
 This repository includes my efforts for the fastai course and book, comprising the codebase, notebooks, assignments, and exercises. I've also reported additional experiments within the repository, experimenting with and expanding upon the original content.
