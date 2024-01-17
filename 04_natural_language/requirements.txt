@@ -1,0 +1,5 @@
+fastai==2.7.13
+kaggle==1.6.3
+datasets==2.16.1
+transformers[torch]==4.36.2
+sentencepiece==0.1.99
